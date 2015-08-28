@@ -1,9 +1,10 @@
-nav > ul {
-	list-style-type: none;
-	width 100%;
+.nav{
+	
 }
 
-nav > ul > li {
-	display: inline-block;
-	width 20%;
+.nav > li {
+	font-size: 1.25em;
+	font-weight: 400;
+	margin-right:50px;
+	margin-left:50px;
 }
